@@ -1,9 +1,14 @@
 # 💫About Me :
 -👋 Hi, I’m @naimishborad
+
 -👀 I’m interested in Mobile Development And More
--🌱 I’m currently learning Flutter
--💼 I’m looking forward to work with awsome folks
+
+-🌱 I’m currently learning Flutter.
+
+-💼 I’m looking forward to work with awsome folks.
+
 -📫 How to reach me naimishborad34@gmail.com
+
 -😁 Pronoun: He/His
 
 ## 🌐Socials
