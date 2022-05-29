@@ -1,10 +1,10 @@
 # 💫About Me :
-👋 Hi, I’m @naimishborad
-👀 I’m interested in Mobile Development And More
-🌱 I’m currently learning Flutter
-💼 I’m looking forward to work with awsome folks
-📫 How to reach me naimishborad34@gmail.com
-😁 Pronoun: He/His
+-👋 Hi, I’m @naimishborad
+-👀 I’m interested in Mobile Development And More
+-🌱 I’m currently learning Flutter
+-💼 I’m looking forward to work with awsome folks
+-📫 How to reach me naimishborad34@gmail.com
+-😁 Pronoun: He/His
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naimish.borad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naimish-borad-55b757220) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@naimishborad) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/naimishborad) 
